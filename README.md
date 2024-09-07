@@ -6,6 +6,7 @@
 3. 搜索框中输入要搜索的组件的Name或者FullName，不区分大小写
 4. 点击Refresh按钮，执行搜索
 ![工具示意图_2](imgs/img_2.png)
+![工具示意图_3](imgs/img_3.png)
 5. 点击 Reference Num （TreeView的表头），可以按照引用数量进行排序
 6. 双击预制体或者点击预制体的Select，会进入该预制体的Prefab Mode编辑模式
 7. 双击组件Item或者点击组件的Select，会在Hierarchy面板中选中该子物体
